@@ -1,0 +1,2 @@
+class WorkExpsController < ApplicationController
+end
